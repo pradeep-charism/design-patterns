@@ -3,10 +3,11 @@
 
 # Log file
 *.log
-
+.idea
 # BlueJ files
 *.ctxt
-
+*.iml
+.idea/*
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
