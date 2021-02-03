@@ -2,3 +2,7 @@
 ## Creational
 ### Singleton
 ### Builder
+### Prototype
+###
+###
+###
